@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="Group_21196" data-name="Group 21196" transform="translate(-161.695 -314.695)">
+    <circle id="Ellipse_420" data-name="Ellipse 420" cx="21" cy="21" r="21" transform="translate(161.695 314.695)" fill="#0037da"/>
+    <g id="Component_149_50" data-name="Component 149 – 50" transform="translate(161.695 314.695)">
+      <g id="ic-user-interface-check-simple">
+        <rect id="Rectangle_884" data-name="Rectangle 884" width="42" height="42" fill="none"/>
+        <g id="Group_21179" data-name="Group 21179" transform="translate(8.613 7.381)">
+          <path id="Icon_feather-check" data-name="Icon feather-check" d="M22.634,9,11.2,20.436,6,15.238" transform="translate(-1.628 -0.873)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect id="Rectangle_4594" data-name="Rectangle 4594" width="25" height="26" transform="translate(0.387 -0.381)" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
